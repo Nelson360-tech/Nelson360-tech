@@ -8,13 +8,16 @@ Ingeniero Informático (finalización prevista febrero 2027, Universidad Carlema
 - 📫 Contacto: nelson0114@msn.com
 
 ---
-
 ### 🛠️ Stack técnico
 
 **Lenguajes:** Python · C# · JavaScript · SQL
+
 **Web:** React · Vite · FastAPI
+
 **Bases de datos:** PostgreSQL · SQLite · DBeaver
+
 **IA / LLM:** Groq (Llama 3.3) · Pydantic (salidas estructuradas)
+
 **Herramientas:** Git/GitHub · Docker · Linux · Render
 
 ---
@@ -22,20 +25,29 @@ Ingeniero Informático (finalización prevista febrero 2027, Universidad Carlema
 ### 🚀 Proyectos destacados
 
 **[seguros-web](https://github.com/Nelson360-tech/seguros-web)** — Plataforma web en producción
+
 Aplicación React + FastAPI con un chatbot de IA ("Asistente MAF") integrado vía la API de Groq (Llama 3.3 70B), para atención y captación de clientes en lenguaje natural. Desplegada en Render.
+
 `React` `FastAPI` `Groq/LLM` `Render`
 
 **Asistente SQL con IA**
+
 Notebook en Python que traduce preguntas en lenguaje natural a consultas SQL ejecutables usando un LLM, sobre la base de datos Northwind (SQLite).
+
 `Python` `Groq` `SQL` `SQLite`
 
 **Analizador de lenguaje natural para domótica**
+
 Sistema que interpreta comandos de automatización del hogar en lenguaje natural y los convierte en acciones estructuradas mediante Pydantic + IA.
+
 `Python` `Pydantic` `Groq`
 
 **Análisis de datos IMDb con PostgreSQL**
+
 Importación y modelado de datasets de IMDb, con consultas SQL avanzadas (JOINs, GROUP BY, HAVING) para analizar tendencias por género y evolución temporal de valoraciones.
+
 `PostgreSQL` `SQL`
+
 
 ---
 
